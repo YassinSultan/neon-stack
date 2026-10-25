@@ -1,0 +1,16 @@
+Neon Stack \n Projects \n Frontend \n Backend \n APIs \n Database \n Cloud \n Containers \n Git \n Testing \n Security \n Design \n Docs \n Deploy \n Archive
+
+01.ico = Projects
+02.ico = Frontend
+03.ico = Backend
+04.ico = APIs
+05.ico = Database
+06.ico = Cloud
+07.ico = Containers
+08.ico = Git
+09.ico = Testing
+10.ico = Security
+11.ico = Design
+12.ico = Docs
+13.ico = Deploy
+14.ico = Archive

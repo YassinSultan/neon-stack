@@ -1,0 +1,251 @@
+{
+  "name": "Neon Stack",
+  "version": "1.0.0",
+  "style": "Dark graphite folders, neon accents, clear developer symbols",
+  "menu_icon": "00.ico",
+  "labels": {
+    "01.ico": "Projects",
+    "02.ico": "Frontend",
+    "03.ico": "Backend",
+    "04.ico": "APIs",
+    "05.ico": "Database",
+    "06.ico": "Cloud",
+    "07.ico": "Containers",
+    "08.ico": "Git",
+    "09.ico": "Testing",
+    "10.ico": "Security",
+    "11.ico": "Design",
+    "12.ico": "Docs",
+    "13.ico": "Deploy",
+    "14.ico": "Archive"
+  },
+  "sizes": [
+    16,
+    24,
+    32,
+    48,
+    64,
+    96,
+    128,
+    256
+  ],
+  "generation": "Built-in image_gen; exact prompts in PROMPTS.txt",
+  "validation": [
+    {
+      "file": "00.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "9424212e930679ef66a9745705d7ec1d85be0cb8dfacc1755a92c4f2508c273b"
+    },
+    {
+      "file": "01.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "9424212e930679ef66a9745705d7ec1d85be0cb8dfacc1755a92c4f2508c273b"
+    },
+    {
+      "file": "02.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "5a32cc9b5dc05710d02fe048b3c03fc5e790cb21afab18e40f0aba195540ad48"
+    },
+    {
+      "file": "03.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "5005908e58795c7caa19dd8de36c0c7898eb18937f24cdae1d7e8513589afb39"
+    },
+    {
+      "file": "04.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "61c80338c061c3063a3b03e29cbfa992c8217dac06b7d4c4a6a6f6cec5c9159a"
+    },
+    {
+      "file": "05.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "e08ea3e9d8d6f1a9dc7ee596ca862edf5054201bc40595feae7e564608a87fde"
+    },
+    {
+      "file": "06.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "4557a830397669d6d7419fab288d9dd200dd1924b62b3b8e79152fd41e4cab2c"
+    },
+    {
+      "file": "07.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "738ddd5173f4d811ee07d723d6bfb0ca0988c36921186322aad34b846c91663f"
+    },
+    {
+      "file": "08.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "d7bd4bcebd0f3a1bc4249235e4f298232ee47798dfd5d21af2730e6ca528b40f"
+    },
+    {
+      "file": "09.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "e96e8f6be7b469f96aee0d2641817f471a15edc74d1f7f45d298bd1491ea5658"
+    },
+    {
+      "file": "10.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "ffac9dc2d2a6efe1a48dc9772e05efd801afdc3d425d11db9add7d158ec4ce8b"
+    },
+    {
+      "file": "11.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "a5a87b1748e56443d518c56f369d06a46e2e37e9f78969058e278df64d73164e"
+    },
+    {
+      "file": "12.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "b278e09a1d765ecb4d5ff2c390b3e13946c29a4c9af60a211010e95517fd6dae"
+    },
+    {
+      "file": "13.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "385dc63e0d974f48e578279a94e5f32277a142be5c3066e86eacc83994a67094"
+    },
+    {
+      "file": "14.ico",
+      "sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256
+      ],
+      "sha256": "5b182be617eb68d1ed05faee87772e6c4015d20e19d29254caac44b0b7d19897"
+    }
+  ],
+  "validation_summary": {
+    "ico_files": 15,
+    "frames": 120,
+    "windows_native_loadimage": "all sizes passed",
+    "installer": "WhatIf, 32 language entries, other settings preserved, backup and restoration passed on isolated fixture"
+  }
+}
